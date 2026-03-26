@@ -409,20 +409,6 @@
     </div>
   </div>
 
-  <div class="section">
-    <div class="section-title"><div class="icon icon-green">🚀</div>How to Use</div>
-    <div class="card">
-      <ol style="padding-left:20px; color:rgba(255,255,255,0.7); line-height:2.2; font-size:14px;">
-        <li>Download or clone this repository to your local machine.</li>
-        <li>Open <code style="color:var(--blue-light)">CaseStudy_India_CPI_Inflation.xlsx</code> in <strong style="color:white">Microsoft Excel 2016</strong> or later.</li>
-        <li>Start with the <strong style="color:var(--saffron)">CPI_Inflation</strong> sheet to understand the raw data structure.</li>
-        <li>Navigate to the <strong style="color:var(--gold)">Main</strong> sheet for a wide-format view of all categories.</li>
-        <li>Explore individual analysis sheets for specific insights (YOY, MoM, Oil, COVID).</li>
-        <li>Refresh Pivot Tables if you modify raw data — Right-click → <strong style="color:white">Refresh All</strong>.</li>
-      </ol>
-    </div>
-  </div>
-
 </div>
 
 <div class="divider"><span></span><span></span><span></span></div>
